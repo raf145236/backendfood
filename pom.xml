@@ -15,7 +15,7 @@
 	<name>Food_Hunger_TF</name>
 	<description>Food_Hunger_TF</description>
 	<properties>
-		<java.version>20</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 
